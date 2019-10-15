@@ -1,5 +1,5 @@
 # Chess
-Chess game developed in JavaFX as a challenge for me & Mikkel.
+Chess game developed in JavaFX as a challenge.
 
 #### TODO
 - Move backwards in history
@@ -12,6 +12,3 @@ Chess game developed in JavaFX as a challenge for me & Mikkel.
 - Make human move show up when playing against AI
 - Button for resigning or offering draw?
 
-
-
-Test Pull Request!
